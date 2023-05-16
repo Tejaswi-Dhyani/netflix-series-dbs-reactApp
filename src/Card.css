@@ -1,0 +1,23 @@
+.card{
+    width: 19rem;
+    border-radius: 12px;
+    box-shadow: 1px 1px 5px #333;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+    border-radius: 12px 12px 0 0;
+}
+.card-body h5{
+    text-shadow: 1px 3px 5px rgb(187, 187, 187);
+    font-weight: 700;
+}
+.btn-green{
+    background-color: rgb(36, 156, 116);
+    color: #ffffff;
+    font-weight: 500;
+}
+.btn-green:hover{
+    background-color: rgb(26, 118, 87);
+    color: #ffffff;
+}
